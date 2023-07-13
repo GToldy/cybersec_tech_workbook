@@ -40,7 +40,7 @@
 
 ### Through what series of commands could you put a new file into a remote repository connected to your existing local repository?
 
-> git add > git commit, git push
+> ``git add`` > ``git commit`` > ``git push``
 
 ### What does it mean atomic commits and descriptive commit messages?
 
@@ -49,4 +49,4 @@
 
 ### What’s the difference between git and GitHub?
 
-> Git is a version control system, while GitHub is a repository hosting service
+> ``Git`` is a version control system, while ``GitHub`` is a repository hosting service
